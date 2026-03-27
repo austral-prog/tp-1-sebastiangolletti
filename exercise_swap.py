@@ -10,3 +10,16 @@ def swap():
     """
     x = 10
     y = 20
+
+    x_original = x
+    y_original = y
+
+    valorx = y
+    valory = x
+
+    print(x_original)
+    print(y_original)
+    print(valorx)
+    print(valory)
+
+
